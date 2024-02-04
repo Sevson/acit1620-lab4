@@ -3,7 +3,7 @@
 }
 
 header {
-    background-color: hsl(var(--base-color), 20%);
+    background-color: hsl(var(--base-color), 19%);
     color: white;
     text-align: center;
     padding: 1.3rem;
